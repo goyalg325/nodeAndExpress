@@ -1,0 +1,16 @@
+{
+  "name": "python-learn",
+  "version": "1.0.0",
+  "description": "my first package json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "lodash": "^4.17.21"
+  }
+}
